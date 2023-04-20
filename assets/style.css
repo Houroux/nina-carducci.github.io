@@ -244,6 +244,24 @@ input[type="submit"] {
 	padding: .5em 1em
 }
 
+.carousel-item img {
+	height: 888px;
+}
+
+.left img {
+	height: 558px;
+}
+
+.right img {
+	height: 418px;
+}
+
+.social-link img {
+	height: 20px;
+	width: 20px;
+}
+
+
 @media all and (max-width: 1180px) {
 	.picture {
 		flex : 2;
