@@ -246,15 +246,11 @@ input[type="submit"] {
 
 .carousel-item img {
 	height: 888px;
+	overflow: auto;
 }
 
-.left img {
-	height: 558px;
-}
 
-.right img {
-	height: 418px;
-}
+
 
 .social-link img {
 	height: 20px;
