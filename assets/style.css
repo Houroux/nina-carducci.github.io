@@ -249,12 +249,22 @@ input[type="submit"] {
 	overflow: auto;
 }
 
-
-
-
 .social-link img {
 	height: 20px;
 	width: 20px;
+}
+
+.informations {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	background-color:#A8D5D8;
+	padding: 2em 0;
+}
+
+.informations p {
+	font-size: 25px ;
+	margin : 10px 0
 }
 
 
