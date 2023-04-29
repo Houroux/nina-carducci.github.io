@@ -90,9 +90,6 @@ body {
 	font-size: 14px;
 }
 
-#gallery {
-	/*	min-height: 100vh; */
-}
 .title{
 	text-align: center;
 	padding-block: 2em;
@@ -266,7 +263,6 @@ input[type="submit"] {
 	font-size: 25px ;
 	margin : 10px 0
 }
-
 
 @media all and (max-width: 1180px) {
 	.picture {
