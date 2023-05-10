@@ -241,6 +241,10 @@ input[type="submit"] {
 	padding: .5em 1em
 }
 
+.modal-content {
+	align-items: center;
+}
+
 .carousel-item img {
 	height: 888px;
 	overflow: auto;
